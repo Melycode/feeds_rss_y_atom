@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+    <title>Explora Ciudades</title>
+    <link href="https://www.exploraciudades.com" />
+    <updated>2026-01-13T13:53:00Z</updated>
+    <id>https://www.exploraciudades.com/</id>
+    <author>
+        <name>Explora Ciudades</name>
+    </author>
+    
+    <entry>
+        <title>Ruta de tapas por Sevilla</title>
+        <link href="https://www.exploraciudades.com/ruta-tapas-sevilla" />
+        <id>https://www.exploraciudades.com/ruta-tapas-sevilla</id>
+        <updated>2026-01-13T14:43:00Z</updated>
+        <summary>Descubre los bares más auténticos de Sevilla y disfruta de una ruta gastronómica que combina tradición, sabores locales y ambiente andaluz.</summary>
+    </entry>
+
+
+    <entry>
+        <title>Qué ver en Viena en 3 días</title>
+        <link href="https://www.exploraciudades.com/que-ver-viena-3-dias" />
+        <id>https://www.exploraciudades.com/que-ver-viena-3-dias</id>
+        <updated>2026-01-13T15:23:00Z</updated>
+        <summary>Descubre los principales lugares turísticos de Viena en solo tres días: palacios, iglesias, parques y museos.</summary>
+    </entry>
+
+
+    <entry>
+        <title>Paseo por el casco antiguo de Praga</title>
+        <link href="https://www.exploraciudades.com/paseo-casco-antiguo-praga" />
+        <id>https://www.exploraciudades.com/paseo-casco-antiguo-praga</id>
+        <updated>2026-01-13T16:15:00Z</updated>
+        <summary>Explora los callejones y plazas históricas del casco antiguo de Praga, con sus edificios medievales y su arquitectura única.</summary>
+    </entry>
+
+
+    <entry>
+        <title>Recorrido gastronómico por Lima</title>
+        <link href="https://www.exploraciudades.com/recorrido-gastronomico-lima" />
+        <id>https://www.exploraciudades.com/recorrido-gastronomico-lima</id>
+        <updated>2026-01-13T17:30:00Z</updated>
+        <summary>Descubre los mejores restaurantes y platos típicos de Lima, con una experiencia culinaria que mezcla tradición y modernidad.</summary>
+    </entry>
+</feed>

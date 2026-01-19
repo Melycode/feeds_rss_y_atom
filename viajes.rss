@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel> 
+        <title>Explora Ciudades</title>
+        <link>https://www.exploraciudades.com</link>
+        <description>Blog con guías, tips y experiencias para recorrer ciudades de manera práctica y divertida.</description>
+        <language>es</language>
+
+        <item> 
+            <title>Ruta de tapas por Sevilla</title>
+            <guid>https://www.exploraciudades.com/ruta-tapas-sevilla</guid>
+            <description>Descubre los bares más auténticos de Sevilla y disfruta de una ruta gastronómica que combina tradición, sabores locales y ambiente andaluz. </description>
+        </item>
+
+
+
+        <item> 
+            <title>Qué ver en Viena en 3 días</title>
+            <guid>https://www.exploraciudades.com/que-ver-viena-3-dias</guid>
+            <description>Descubre los principales lugares turísticos de Viena en solo tres días: palacios, iglesias, parques y museos. </description>
+        </item>
+
+
+        <item> 
+            <title>Paseo por el casco antiguo de Praga</title>
+            <guid>https://www.exploraciudades.com/paseo-casco-antiguo-praga</guid>
+            <description>Explora los callejones y plazas históricas del casco antiguo de Praga, con sus edificios medievales y su arquitectura única. </description>
+        </item>
+
+
+        <item> 
+            <title>Recorrido gastronómico por Lima</title>
+            <guid>https://www.exploraciudades.com/recorrido-gastronomico-lima</guid>
+            <description>Descubre los mejores restaurantes y platos típicos de Lima, con una experiencia culinaria que mezcla tradición y modernidad. </description>
+        </item>
+
+    </channel>
+</rss>
